@@ -1,0 +1,28 @@
+
+body { 
+background-image: url(town.jpg)}
+
+
+h1#start {
+    color: dodgerblue   ;
+    
+}
+div#link {
+    font-size: 30px;
+    font-family:cursive
+    
+}
+a#insta {
+    color: burlywood;
+}
+a#twatter {
+    color: skyblue;
+}
+a#fb {
+    color: royalblue;
+}
+
+center#cons {
+    color: white;
+    font-family: sans-serif;
+}
